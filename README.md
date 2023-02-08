@@ -10,6 +10,8 @@
 ### Install rust
 - Follow https://rustup.rs/ to install rust
 - Result:
+
+
   ![install success](./images/install-rust.png)
   ![rustup](./images/rustup.png)
 
