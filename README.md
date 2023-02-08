@@ -28,9 +28,9 @@
   ![Concordium client](./images/concordium-client.png)
 
 ### Install Concordium Wallet & Create account
-    - Add chrome extension from https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US
-    - Create test account & Acquire testnet CCD
-    ![account](./images/account.png)
+- Add chrome extension from https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US
+- Create test account & Acquire testnet CCD
+  ![account](./images/account.png)
 
 ### Export the account from web wallet and import into concordium client
 - To export private key: open wallet extension > Setting > Export private key 
