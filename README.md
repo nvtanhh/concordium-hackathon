@@ -2,7 +2,7 @@
 
 ## My wallet address
 
-- Concordium Address (mainnet): 45GytP6c3bF7CKM6twuEfSHxnYkG3GoLkrLNm72t6o9YHQEmMu
+- Concordium Address (Mainnet): 4Ab5VSBALWbNHbUwksYNstZWnTD1zrWgV57VQNbixNxFPq4yBa
 - USDT Address (Metamask): 0xB883e40202417671fDaC9A2D1Dbbf6a49bDA796e
 
 ## My process - MacOS
@@ -28,9 +28,9 @@
   ![Concordium client](./images/concordium-client.png)
 
 ### Install Concordium Wallet & Create account
-- Add chrome extension from https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US
-- Create test account & Acquire testnet CCD
-  ![account](./images/account.png)
+    - Add chrome extension from https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US
+    - Create test account & Acquire testnet CCD
+    ![account](./images/account.png)
 
 ### Export the account from web wallet and import into concordium client
 - To export private key: open wallet extension > Setting > Export private key 
@@ -38,4 +38,4 @@
   ```zsh
    concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Your-Wallet-Name>
   ```
-  ![import-key](./images/import-key.png)
+    ![import-key](./images/import-key.png)
